@@ -7,9 +7,9 @@ class Timer extends Component {
 
     componentDidMount = () => {
         this.setState({
-            minutesLeft: ls.get('pomLength'),
+            minutesLeft: ls.get('pomLength') || 25,
         })
-        this.duration = ls.get('pomLength');
+        this.duration = ls.get('pomLength') || 25;
         this.secondsRemaining = ls.get('secondsRemaining');
     }
 
