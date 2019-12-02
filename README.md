@@ -1,23 +1,27 @@
 # WORK + TRACK
 
-Countdown mode: 
+#### > An alternate take on the Pomodoro timer, which offers work tracking and activity logging.
+
+#### > Pomodoro tracker, Productivity, Work tracker, React.js, Sass
+
+### Countdown mode: 
 
 <a href="http://flickr.com"><img src="https://live.staticflickr.com/65535/49158385528_2410a1f505_o.png" title="Countdown" alt="Countdown Mode"></a>
 
-Stopwatch mode: 
+### Stopwatch mode: 
 
 <a href="http://flickr.com"><img src="https://live.staticflickr.com/65535/49158872186_de5806a303_o.png" title="Stopwatch" alt="Stopwatch Mode"></a>
 
-Tracker: 
+### Tracker: 
 
 <a href="http://flickr.com"><img src="https://live.staticflickr.com/65535/49159096262_027049fcf6_o.png" title="Tracker" alt="Tracker"></a>
 
-Save your activities and add them to your favourite calendar: 
+### Save your activities and add them to your favourite calendar: 
 
 <a href="http://flickr.com"><img src="https://live.staticflickr.com/65535/49159096182_a7246be724_o.png" title="Save" alt="Save"></a>
 
 
-Dependencies:
+### Dependencies:
   - local-storage: 2.0.0
   - lodash.template: 4.5.0
   - mixin-deep: 2.0.1
@@ -28,3 +32,6 @@ Dependencies:
   - react-scripts: 3.2.0
   - set-value: 3.0.
   
+### Clone
+
+- Clone this repo to your local machine using `https://github.com/m-murasovs/work-track.git`
